@@ -3,7 +3,7 @@
 ### Story
 > We were tasked with developing a data collection, processing, and visualization platform that can improve educational institutions.
 > The goal was to enhance education through data-driven insights. In the modern landscape of education, evidence-based information is crucial for progress. However, the lack of essential data, such as learning outcomes, teacher quality, infrastructure assessment, and more, presents significant challenges.
-> Our team, which included individuals from Mali, Mauritius, India, and Malawi, created this solution to handle this issue.
+> Our team, which included individuals from Mali, Mauritius, India, and Malawi, worked on a solution to handle this issue.
 
 ### Developing the solution
 Our solution revolved around developing an application to gather critical data related to schools, including infrastructure, students, teachers, and finances. Complementing this, we could employ an intelligent rule-based engine powered by AI and machine learning. This engine could analyze the data and offer tailored suggestions for improvement, ranging from remedial interventions to identifying training needs for teachers. For now, it is still work in progress.
