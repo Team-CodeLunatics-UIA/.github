@@ -1,4 +1,4 @@
-# [Learnup](https://learnup.vercel.app/) - Effective Data Collection, Analysis, and Visualization Platform to Transform School
+# [Learnup](https://learnup.vercel.app/) - Effective Data Collection, Analysis, and Visualization Platform to Transform Schools
 
 ### Story
 > We were tasked with developing a data collection, processing, and visualization platform that can improve educational institutions.
